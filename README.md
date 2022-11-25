@@ -36,5 +36,5 @@ npm create vite@latest electron-jue-jin -- --template vue-ts
 npm install electron -D
 ```
 
-如果项目大家觉得比较好，请留一个🌟。
+
 
